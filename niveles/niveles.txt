@@ -1,0 +1,7 @@
+000-008 --> castillo
+009-017 --> bosque
+018-026 --> palacio
+027-035 --> desierto
+036-044 --> castillo 2
+045-053 --> grafitti
+
